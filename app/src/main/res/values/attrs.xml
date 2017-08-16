@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IListView">
+        <attr name="refreshHeaderlayout" format="reference"/>
+        <attr name="loadMoreFooterlayout" format="reference"/>
+        <attr name="refreshenable" format="boolean"></attr>
+        <attr name="loadMoreenable" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>
